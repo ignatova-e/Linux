@@ -4,8 +4,7 @@
 
 **Ubuntu Server · CLI · systemd · netplan · routing · firewall · DHCP · NAT**
 
-<kbd>2 учебных проекта</kbd> <kbd>несколько Ubuntu Server VM</kbd> <kbd>80+
-скриншотов практики</kbd> <kbd>портфолио-формат</kbd>
+<kbd>2 учебных проекта</kbd> <kbd>несколько Ubuntu Server VM</kbd> <kbd>портфолио-формат</kbd>
 
 </div>
 
@@ -51,10 +50,10 @@
 
 ## Featured Evidence
 
-| Linux server                                                                                | Linux networking                                                                        |
-| ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| <img src="../D01_Linux.ID_356272-1/src/img/htop_cpu.png" alt="htop monitoring" width="420"> | <img src="../DO2_LinuxNetwork.ID_356275-2/src/img/7_5.png" alt="NAT check" width="420"> |
-| Мониторинг процессов и ресурсов через `htop`                                                | Проверка NAT/SNAT/DNAT через TCP-подключение                                            |
+| Linux server                                                                       | Linux networking                                                               |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| <img src="./assets/img/d01/htop_cpu.png" alt="htop monitoring" width="420">        | <img src="./assets/img/d02/7_5.png" alt="NAT check" width="420">              |
+| Мониторинг процессов и ресурсов через `htop`                                       | Проверка NAT/SNAT/DNAT через TCP-подключение                                   |
 
 ## Подробный отчет
 
